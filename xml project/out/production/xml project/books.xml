@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<catalog>
+    <books id="bk101">
+        <author>Mathew</author>
+        <title>Developer Guide</title>
+        <genre>computer</genre>
+        <price>44.95</price>
+        <publish_Date>2000-10-01</publish_Date>
+        <contact type="email">javanextlevel@gmail.com</contact>
+    </books>
+
+    <books id="bk102">
+        <author>Mathew Warner</author>
+        <title> Xml Developer Guide</title>
+        <genre>computer</genre>
+        <price>46.95</price>
+        <publish_Date>2000-11-01</publish_Date>
+        <contact type="email">javanextlevel1@gmail.com</contact>
+    </books>
+
+    <books id="bk103">
+        <author>Mathew Warner</author>
+        <title> Xml Developer Guide</title>
+        <genre>computer</genre>
+        <price>46.95</price>
+        <publish_Date>2000-11-01</publish_Date>
+        <contact type="phone">0773915572</contact>
+    </books>
+</catalog>
